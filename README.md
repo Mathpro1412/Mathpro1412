@@ -7,10 +7,10 @@ I build scalable, reliable, and secure systems for modern software teams.
 
 # Certificates
 
-<p align="center">
-  <img src="assets/certificates/az-900.png" width="30%" />
+<p align="left">
+  <img src="assets/certificates/az-900.png" width="20%" />
   &nbsp;&nbsp;
-  <img src="assets/certificates/az-104.png" width="30%" />
+  <img src="assets/certificates/az-104.png" width="20%" />
   &nbsp;&nbsp;
-  <img src="assets/certificates/az-305.png" width="30%" />
+  <img src="assets/certificates/az-305.png" width="20%" />
 </p>
