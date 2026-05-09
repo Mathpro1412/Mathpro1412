@@ -16,3 +16,7 @@ I build scalable, reliable, and secure systems for modern software teams.
   &nbsp;&nbsp;
   <img src="assets/certificates/az-400.png" width="20%" />
 </p>
+
+<p align="left">
+  <img src="assets/certificates/aif-c01.png" width="20%" />
+</p>
