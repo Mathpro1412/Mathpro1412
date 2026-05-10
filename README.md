@@ -20,3 +20,7 @@ I build scalable, reliable, and secure systems for modern software teams.
 <p align="left">
   <img src="assets/certificates/aif-c01.png" width="20%" />
 </p>
+
+<p align="left">
+  <img src="assets/certificates/ckad.png" width="20%" />
+</p>
