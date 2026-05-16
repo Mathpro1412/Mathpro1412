@@ -23,4 +23,7 @@ I build scalable, reliable, and secure systems for modern software teams.
 
 <p align="left">
   <img src="assets/certificates/ckad.png" width="20%" />
+  &nbsp;&nbsp;
+  <img src="assets/certificates/cka.png" width="20%" />
+  &nbsp;&nbsp;
 </p>
